@@ -1,0 +1,8 @@
+#YAML Ain't Markup Language (YAML) is used
+#for configuration files, but its main objective is data
+#serialization.
+
+host: "127.0.0.1"
+user: "root"
+pwrd: "Your Password"
+db: "MRTS"
